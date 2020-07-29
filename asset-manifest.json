@@ -1,11 +1,11 @@
 {
-  "main.js": "/react-hooks-theremin/static/js/main.33daada2.chunk.js",
-  "main.js.map": "/react-hooks-theremin/static/js/main.33daada2.chunk.js.map",
-  "static/js/1.e1f9799f.chunk.js": "/react-hooks-theremin/static/js/1.e1f9799f.chunk.js",
-  "static/js/1.e1f9799f.chunk.js.map": "/react-hooks-theremin/static/js/1.e1f9799f.chunk.js.map",
-  "runtime~main.js": "/react-hooks-theremin/static/js/runtime~main.687cdc35.js",
-  "runtime~main.js.map": "/react-hooks-theremin/static/js/runtime~main.687cdc35.js.map",
-  "index.html": "/react-hooks-theremin/index.html",
-  "precache-manifest.e5ccab63f06b2e6bdda03f703071df78.js": "/react-hooks-theremin/precache-manifest.e5ccab63f06b2e6bdda03f703071df78.js",
-  "service-worker.js": "/react-hooks-theremin/service-worker.js"
+  "main.js": "/theremin/static/js/main.33daada2.chunk.js",
+  "main.js.map": "/theremin/static/js/main.33daada2.chunk.js.map",
+  "static/js/1.9cb0750f.chunk.js": "/theremin/static/js/1.9cb0750f.chunk.js",
+  "static/js/1.9cb0750f.chunk.js.map": "/theremin/static/js/1.9cb0750f.chunk.js.map",
+  "runtime~main.js": "/theremin/static/js/runtime~main.db2c0f2b.js",
+  "runtime~main.js.map": "/theremin/static/js/runtime~main.db2c0f2b.js.map",
+  "index.html": "/theremin/index.html",
+  "precache-manifest.1059932e2540c3c5459cff232b4527b8.js": "/theremin/precache-manifest.1059932e2540c3c5459cff232b4527b8.js",
+  "service-worker.js": "/theremin/service-worker.js"
 }
